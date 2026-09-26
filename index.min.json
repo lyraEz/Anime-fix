@@ -1,0 +1,19 @@
+[
+  {
+    "name": "CineVEO",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.cineveo",
+    "apk": "aniyomi-pt.cineveo-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "CineVEO",
+        "lang": "pt-BR",
+        "id": "0",
+        "baseUrl": "https://cineveo.club"
+      }
+    ]
+  }
+]
